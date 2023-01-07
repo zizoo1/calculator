@@ -1,0 +1,158 @@
+::selection {
+    color: red;
+    background-color: blue;
+}
+
+p {
+    color: rgb(255, 127, 138);
+    font-size: 35px;
+    text-align: end;
+}
+h1 {
+    color: blue;
+    font-size: 110%;
+    margin-left: 50rem;
+    margin-bottom: 1rem;
+    margin-top: 34px;
+}
+
+.img {
+    width: 100%;
+    max-width: 10rem;
+    height: 100%;
+    max-height: 10rem;
+    margin-top: 30px;
+}
+
+.a {
+    text-decoration: none;
+    font-size: 20px;
+    color: red;
+}
+
+.ziad3 {
+    text-align: center;
+}
+
+.ziad4 {
+    font-size: 11px;
+    margin-top: -40px;
+    word-spacing: 1px;
+}
+
+.button {
+    background-color: rgb(170, 170, 170);
+    border-width: 10px;
+    border: dashed royalblue;
+}
+
+.ziad1 {
+    background-color: rgb(231 221 221);
+    padding: 10PX;
+    width: 200PX;
+    color: #000;
+    text-align: start;
+    font-size: 17px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ziad1:hover {
+    overflow: visible;
+    width: 350px;
+}
+
+.ziad2 {
+    font-size: 10px;
+    margin-left: 49rem;
+    margin-top: -6rem;
+    margin-bottom: 4px;
+    margin-right: 10rem;
+}
+
+.with-ser {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(99, 99, 99);
+    padding: 10px;
+    max-width: 17rem;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+#container {
+    border: none;
+}
+
+#display {
+    display: block;
+    width: 88px;
+    border: none;
+    background-color: #ff8093;
+    color: white;
+    margin-bottom: 4px;
+    border-radius: 50px;
+}
+
+.mathButtons {
+    margin: -3px 2px 4px 0px;
+    color: #FFF;
+    border: none;
+    background-color: #00c0ff;
+    border-radius: 50px;
+}
+
+.digits {
+    color: white;
+    border: none;
+    border-radius: 50px;
+
+    background-color: lightseagreen;
+}
+
+.calculator {
+    margin-left: 50rem;
+    margin-top: 25rem;
+    width: 92px;
+    background-color: currentcolor;
+    padding: 11px;
+    border-radius: 9px;
+}
+
+#clearButton {
+    color: #FFF;
+    border-radius: 50px;
+    border: none;
+    background-color: #00c0ff;
+}
+
+#mr {
+    margin-left: -1px;
+}
+
+#mg {
+    margin-left: 1px;
+
+    font-size: 13px;
+}
+
+#mt {
+    margin-left: 0px;
+}
+
+#mq {
+    margin-left: -2px;
+}
+
+.zizooo {
+    position: relative;
+    top: 400px;
+}
